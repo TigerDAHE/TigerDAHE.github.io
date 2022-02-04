@@ -35,3 +35,16 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+# 一个存放东西的地方
+
+只是想给或许将要在未来某个时刻被丢弃的微光找一个能好好保存的地方.
+
+## 微光
+
+## 阅读
+
+## 杂谈
+
+## 笔记
