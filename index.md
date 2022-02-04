@@ -42,9 +42,11 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 只是想给或许将要在未来某个时刻被丢弃的微光找一个能好好保存的地方.
 
 ## 微光
-建站小记[建站小记](./Lights/helloworld.md)
+*人们对自己心灵中闪过的微光，往往会将它舍弃，只因为这是自己的东西。而从天才的作品中，人们却认出了曾被自己舍弃的微光…*
+[建站小记](./Lights/helloworld/helloworld.md)
 
 ## 阅读
+[论幽默](./Jottings/humors/humors.md)
 
 ## 杂谈
 
