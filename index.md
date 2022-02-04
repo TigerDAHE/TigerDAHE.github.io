@@ -42,6 +42,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 只是想给或许将要在未来某个时刻被丢弃的微光找一个能好好保存的地方.
 
 ## 微光
+建站小记[建站小记](./Lights/helloworld.md)
 
 ## 阅读
 
