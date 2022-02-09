@@ -1,18 +1,18 @@
 # 一个存放东西的地方
 ----
-只是想给或许将要在未来某个时刻被丢弃的微光找一个能好好保存的地方.
+只是想给或许将要在未来某个时刻被丢弃的微光找一个能好好保存的地方.  
 
 ## 微光
 *人们对自己心灵中闪过的微光，往往会将它舍弃，只因为这是自己的东西。而从天才的作品中，人们却认出了曾被自己舍弃的微光…*  
 [建站小记](./Lights/helloworld/helloworld.md)
 
 ## 阅读
-*把写在扉页的读后感写在markdown上*
-[当我们在谈论爱情时我们在谈论什么](./Reading/carverLOVE/carverLOVE.md)
+*把写在扉页的读后感写在markdown上*  
+[当我们在谈论爱情时我们在谈论什么](./Reading/carverLOVE/carverLOVE.md)  
 
 ## 杂谈
-*中二病的幻想果实*
-[论幽默](./Jottings/humors/humors.md)
+*中二病的幻想果实*  
+[论幽默](./Jottings/humors/humors.md)  
 
 ## 笔记
-*好好学习天天向上*
+*好好学习天天向上*  
