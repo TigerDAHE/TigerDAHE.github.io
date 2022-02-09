@@ -7,8 +7,12 @@
 [建站小记](./Lights/helloworld/helloworld.md)
 
 ## 阅读
-[论幽默](./Jottings/humors/humors.md)
+*把写在扉页的读后感写在markdown上*
+[当我们在谈论爱情时我们在谈论什么](./Reading/carverLOVE/carverLOVE.md)
 
 ## 杂谈
+*中二病的幻想果实*
+[论幽默](./Jottings/humors/humors.md)
 
 ## 笔记
+*好好学习天天向上*
